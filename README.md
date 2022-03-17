@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaiMadhusudanGunda
-- 👀 I’m interested in robotics and web3,blockchain.
+- 👀 I’m interested in robotics , web3 and blockchain.
 - 🌱 I’m currently a freshman
 
 <!---
