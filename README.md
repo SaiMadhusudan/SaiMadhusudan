@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaiMadhusudanGunda
 - 👀 I’m interested in robotics , web3 and blockchain.
-- 🌱 I’m currently a freshman
+- 🌱 I’m currently a sophmore
 
 <!---
 SaiMadhusudan/SaiMadhusudan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
